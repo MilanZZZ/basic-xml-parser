@@ -1,0 +1,3 @@
+C:/Users/MILAN/CLionProjects/xml_parser_final/cmake-build-debug/CMakeFiles/xml_parser_final.dir
+C:/Users/MILAN/CLionProjects/xml_parser_final/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MILAN/CLionProjects/xml_parser_final/cmake-build-debug/CMakeFiles/rebuild_cache.dir

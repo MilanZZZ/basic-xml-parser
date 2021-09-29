@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/MILAN/CLionProjects/xml_parser_final/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+cstdlib
+-
+
